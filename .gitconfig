@@ -1,0 +1,19 @@
+
+
+[tig]
+    show-changes = true
+    line-graphics = ascii
+    vertical-split = false
+    commit-order = date
+    editor-line-number = true
+    show-notes = false
+    main-view-line-number = true
+    main-view-line-number-interval = 1
+    main-view-id = true
+    main-view-id-width = 7
+    main-view-commit-title-refs = false
+    main-view-author-width = 23
+[tig "color"]
+    cursor = magenta cyan normal
+[tig "color.main"]
+    date = cyan default normal
